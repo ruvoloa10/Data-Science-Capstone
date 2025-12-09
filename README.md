@@ -1,1 +1,1 @@
-# Capstone
+This is the final course in IBM's Data Science Certificate through Coursera. This is a Capstone project that encompasses every single class that was in the course. The courses included covering data science, tools for data science, data science methodology, Python for data science, Ai, and development, python projects, databases, SQL, data analysis, data visualizations, and machine learning. This Capstone coverrs all of these different Python techniques, as well as, allowed me to use my statistics skills to provide data analysis from the results shown in the data.
